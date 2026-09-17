@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tutoriel-aspnet-core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53b7ade9a6915d3ea0b142b6f5e89e1be5723dab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2325dbc74c8b81dc3a0f57dc764db4f8fd18e5b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("tutoriel-aspnet-core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tutoriel-aspnet-core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
